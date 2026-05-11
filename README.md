@@ -1,16 +1,18 @@
-## Hi there 👋
+Hey there! 🐌
 
-<!--
-**TGK-tech19/TGK-tech19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tatenda George Kuvenguhwa
 
-Here are some ideas to get you started:
+IT student and full-stack web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Tech stack
+- React + Tailwind CSS
+- Node.js + Express
+- PostgreSQL
+
+Currently
+Building full-stack applications and learning backend architecture.
+Freelancing
+
+Find me
+- LinkedIn: www.linkedin.com/in/tatenda-kuvenguhwa-2320b440a
+- Email: tatenda.georgek1@gmail.com
